@@ -1,0 +1,2 @@
+*.apk -text -filter -diff -merge
+*.png -text -filter -diff -merge
